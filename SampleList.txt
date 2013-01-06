@@ -1,0 +1,21 @@
+- #Level 1 heading
+	- [] Incomplete task
+	- [] Another incomplete task
+	- [-] Cancelled task
+	- [x] Completed task
+	- [] Tasks *don't* autosort by completion status.
+	- [] You can [view the markup of this list](http://www.desiquintans.com/demo/flatlist/SampleList.txt) to see how it looks raw.
+
+	- ##Level 2 heading
+		- [X] You can make nested lists too.
+			- You can also add supplementary text underneath a checklist item without making a new checkbox.
+		- [-] The item below it continues on happily.
+
+		- ###Level 3 heading
+			- [x] You can use [Markdown syntax](http://daringfireball.net/projects/markdown/syntax) to add formatting and links to your list, or just leave it as plain text.
+			- [x] [FlatList](http://www.desiquintans.com/flatlist) is great for displaying text lists that you keep in your *Public* [Dropbox](http://www.dropbox.com) folder. Edit that list from anywhere, then show people your progress in a reader-friendly format.
+			- [] I personally use this tool with my note-taking tool, [Scratchpad](http://www.desiquintans.com/scratchpad).
+
+			- ####Level 4 heading
+				- [-] More cancelled tasks!
+			- #####Level 5 heading

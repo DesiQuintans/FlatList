@@ -1,0 +1,56 @@
+body
+{
+    margin: 1% 5% 1% 5%;
+    font-family: Sans-Serif;
+}
+
+#credits
+{
+	padding-top: 1%;
+    text-align: center;
+    font-size: smaller;
+}
+
+#title
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+li
+{
+	margin-bottom: 0.5em;
+	list-style: none;
+}
+
+.heading1
+{
+	font-size: 3em;
+	color: #222;
+}
+
+.heading2
+{
+	font-size: 2.5em;
+	color: #444;
+}
+
+.heading3
+{
+	font-size: 2em;
+	color: #666;
+}
+
+.heading4
+{
+	font-size: 1.5em;
+	color: #888;
+}
+
+.heading5
+{
+	font-size: 1em;
+	color: #aaa;
+}
+
